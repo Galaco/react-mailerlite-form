@@ -5,8 +5,8 @@ React component for MailerLite forms.
 ## Instructions
 
 1. Install dependency: 
-* NPM: `npm install react-mailerlite-form`
-* yarn: `yarn add react-mailerlite-form`
+* NPM: `npm install @galaco/react-mailerlite-form`
+* yarn: `yarn add @galaco/react-mailerlite-form`
 
 2. Add script
     ```js

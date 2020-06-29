@@ -1,5 +1,5 @@
 {
-  "name": "react-mailerlite-form",
+  "name": "@galaco/react-mailerlite-form",
   "version": "0.1.0",
   "description": "React component for MailerLite forms.",
   "repository": {
